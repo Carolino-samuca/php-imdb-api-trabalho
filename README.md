@@ -6,7 +6,7 @@
 
 PHP IMDB-API that can fetch film data and search results.
 
-## Install
+## Install teste teste
 
 Install the latest version using [composer](https://getcomposer.org/).
 
@@ -120,5 +120,5 @@ Search IMDB to return an array of films, people and companies
 
 > All dependencies are managed automatically by `composer`.
 
--   [php-html-parser](https://github.com/paquettg/php-html-parser)
--   [filebase](https://github.com/tmarois/Filebase)
+- [php-html-parser](https://github.com/paquettg/php-html-parser)
+- [filebase](https://github.com/tmarois/Filebase)
